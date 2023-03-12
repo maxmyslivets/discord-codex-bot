@@ -1,2 +1,2 @@
 # discord-codex-bot
-Discord бот для взаимодействия с openai моделью code-davinci-002.
+Discord bot to interact with openai model code-davinci-002.
